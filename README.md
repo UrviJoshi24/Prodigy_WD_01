@@ -7,8 +7,6 @@ Welcome to my responsive landing page project! This project was created as part 
 - [Overview](#overview)
 - [Features](#features)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
