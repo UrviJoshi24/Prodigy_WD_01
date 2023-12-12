@@ -6,7 +6,6 @@ Welcome to my responsive landing page project! This project was created as part 
 
 - [Overview](#overview)
 - [Features](#features)
-- [Usage](#usage)
 
 ## Overview
 
@@ -18,10 +17,4 @@ This landing page is designed to be responsive, providing an optimal viewing exp
 - Interactive navigation menu with color and style changes.
 - Simple and clean layout for easy navigation.
 
-## Usage
 
-To use this landing page, simply clone the repository and open the `index.html` file in your preferred web browser. You can also customize the content and styles according to your preferences.
-
-```bash
-git clone https://github.com/your-username/landing-page.git
-cd landing-page
